@@ -13,20 +13,20 @@ Technology USED:
 
 # SCREENSHOTS/ PROCEDURE :-
 Recognizing Hand:
-![Screenshot (10)](https://github.com/rohitks483/Hand-Gesture-Control-Desktop-Screen/blob/main/Readme%20Files/0.png)
+![Screenshot (10)](https://github.com/rohitks483/Hand-Gesture-Control-VLC-Media-Player/blob/main/Readme%20Files/1.png)
 
-![Screenshot (10)](https://github.com/rohitks483/Hand-Gesture-Control-Desktop-Screen/blob/main/Readme%20Files/1.png)
+![Screenshot (10)](https://github.com/rohitks483/Hand-Gesture-Control-VLC-Media-Player/blob/main/Readme%20Files/2.png)
 
 Forming Contours:
-![Screenshot (11)](https://github.com/rohitks483/Hand-Gesture-Control-Desktop-Screen/blob/main/Readme%20Files/2.png)
+![Screenshot (11)](https://github.com/rohitks483/Hand-Gesture-Control-VLC-Media-Player/blob/main/Readme%20Files/3.png)
 
-![Screenshot (12)](https://github.com/rohitks483/Hand-Gesture-Control-Desktop-Screen/blob/main/Readme%20Files/3.png)
+![Screenshot (12)](https://github.com/rohitks483/Hand-Gesture-Control-VLC-Media-Player/blob/main/Readme%20Files/4.png)
 
 50% Volume:
-![Screenshot (13)](https://github.com/rohitks483/Hand-Gesture-Control-Desktop-Screen/blob/main/Readme%20Files/4.png)
+![Screenshot (13)](https://github.com/rohitks483/Hand-Gesture-Control-VLC-Media-Player/blob/main/Readme%20Files/5.png)
 
 100% Volume:
-![Screenshot (11)](https://github.com/rohitks483/Hand-Gesture-Control-Desktop-Screen/blob/main/Readme%20Files/5.png)
+![Screenshot (11)](https://github.com/rohitks483/Hand-Gesture-Control-VLC-Media-Player/blob/main/Readme%20Files/7.png)
 
 Mute:
-![Screenshot (11)](https://github.com/rohitks483/Hand-Gesture-Control-Desktop-Screen/blob/main/Readme%20Files/6.png)
+![Screenshot (11)](https://github.com/rohitks483/Hand-Gesture-Control-VLC-Media-Player/blob/main/Readme%20Files/6.png)
