@@ -1,4 +1,4 @@
-# Hand-Gesture-Control-VLC-Media-Players
+# Hand-Gesture-Control-VLC-Media-Player
 
 A Computer Vision Based Hand Recognition System which recognize hand gestures/movements to control VLC Media Player.
 Like Change Volume, Move Forward or Backward Video or Go to NExt Track or Movie!
